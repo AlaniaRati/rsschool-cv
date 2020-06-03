@@ -1,1 +1,1 @@
-# rsschool-cv
+ https://AlaniaRati.github.io/rsschool-cv/cv
