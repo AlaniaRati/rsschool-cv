@@ -9,6 +9,9 @@
    - SQL (Oracle)
    - Python 3
    - Linux
+   - Git
+   - Android development
+   - AWS
 5. https://github.com/AlaniaRati/Forma25 
 6. Have done several projects, code tests at codewars. Worked at Evex Hospitals as markuper. Now I am working on startup.
 7. - Business And Technology University - IT lectures
